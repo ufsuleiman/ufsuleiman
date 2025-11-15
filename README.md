@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning AI & Machine learning, Deep learning, Time series Forecast and Regression Analysis.<br>🎯 Goals: My goal is to be able to solve problems in the energy industry using the above skills i am learning<br>🎲 Fun fact: I am learning everyday</p>
+<p align="left">✨ Making Data-driven decisions since 2023<br>📚I am a Petroleum Engineering graduate with a growing passion for Sustainable Energy Engineering and the transformative role of Artificial Intelligence in driving Nigeria’s energy transition.<br>🎯 Goal:  My goal is to contribute towards a decentralised sustainable energy system that powers economic and industrial growth.<br>🎲 Fun fact: I ask alot of questions</p>
 
 ###
 

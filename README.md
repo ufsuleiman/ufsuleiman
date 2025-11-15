@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋</h1>
 
 ###
 
-<p align="left">My name is Suleiman Umar Farouk and I'm a Data Scientist from Nigeria</p>
+<p align="left">My name is Suleiman Umar Farouk, I'm a Data Scientist from Nigeria</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Making Data-driven decisions since 2023<br>📚I am a Petroleum Engineering graduate with a growing passion for Sustainable Energy Engineering and the transformative role of Artificial Intelligence in driving Nigeria’s energy transition.<br>🎯 Goal:  My goal is to contribute towards a decentralised sustainable energy system that powers economic and industrial growth.<br>🎲 Fun fact: I ask alot of questions</p>
+<p align="left">✨ Making Data-driven decisions since 2023<br>📚 I am a Petroleum Engineering graduate with a growing passion for Sustainable Energy Engineering and the transformative role of Artificial Intelligence in driving Nigeria’s energy transition.<br>🎯 Goal:  My goal is to contribute towards a decentralised sustainable energy system that powers economic and industrial growth.<br>🎲 Fun fact: I ask alot of questions</p>
 
 ###
 
